@@ -1,3 +1,10 @@
+Edumaster - A User-Friendly Learning Platform
+
+Edumaster is an intuitive and user-friendly learning platform built with Next.js and TypeScript, ensuring a robust and scalable structure. The app is styled using Tailwind CSS for a modern and responsive design. With smooth app routing implemented, Edumaster offers seamless navigation across different sections, enhancing the user experience.
+
+The platform includes various features such as a feature showcase, customer testimonials, pricing plans, and a functional contact form, making it an all-inclusive solution for users. Its clean codebase and responsive design ensure accessibility across different devices, providing a smooth, efficient learning experience for everyone.
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
