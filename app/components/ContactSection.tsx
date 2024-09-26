@@ -42,7 +42,7 @@ const ContactSection = () => {
                 id="name"
                 name="name"
                 required
-                className="border border-gray-300 rounded-md p-3 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="border border-gray-300 rounded-md p-3 text-black focus:outline-none focus:ring-2 focus:ring-blue-500"
               />
             </div>
 
@@ -58,7 +58,7 @@ const ContactSection = () => {
                 id="email"
                 name="email"
                 required
-                className="border border-gray-300 rounded-md p-3 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="border border-gray-300 rounded-md p-3  text-black focus:outline-none focus:ring-2 focus:ring-blue-500"
               />
             </div>
 
@@ -74,7 +74,7 @@ const ContactSection = () => {
                 name="message"
                 rows={4}
                 required
-                className="border border-gray-300 rounded-md p-3 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="border border-gray-300 rounded-md p-3  text-black focus:outline-none focus:ring-2 focus:ring-blue-500"
               />
             </div>
 
